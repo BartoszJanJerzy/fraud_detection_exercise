@@ -4,10 +4,10 @@
 - I prepare those 2 notebooks to train my ML skills and learn `PySpark` / `MLFlow` frameworks
 - I used `PySpark` to:
     - run EDA on dataset
-    - feature engineering
-    - preprocessing
+    - createa custom Transformers for feature engineering and preprocessing
     - create a pipeline with ML classification models
 - I used `MLFlow` to logg ml experiments
+- I manipulated a fraud and non-fraud records on train dataset to deal with unbalanced data
 - Other packages: `plotly`, `pandas`
 
 ## Structure
